@@ -212,6 +212,6 @@ We look forward to your contributions!
 
 ## License
 
-MIT © [AOSSIE](https://aossie.org)
+MIT  [AOSSIE](https://aossie.org)
 
 ---
